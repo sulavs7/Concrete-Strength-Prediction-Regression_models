@@ -10,6 +10,7 @@ This project aims to predict the compressive strength of concrete using three di
 
 - `src/main.py`                      # Main module where users can input their dataset and check model predictions.
 - `src/evaluate.py`                  # A script that calculates evaluation metrics for the models.
+-  `src/concrete.ipynb`               # Jupyter Notebook for model training.
 - `models/random_forest_model.pkl`    # Pre-trained Random Forest model file.
 - `models/linear_regression_model.pkl`  # Pre-trained Linear Regression model file.
 - `models/decision_tree_model.pkl`     # Pre-trained Decision Tree model file.
