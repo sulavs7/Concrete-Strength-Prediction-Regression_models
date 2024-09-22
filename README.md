@@ -3,7 +3,9 @@
 This project aims to predict the compressive strength of concrete using three different regression models: Random Forest, Linear Regression, and Decision Tree Regression. It allows users to input their dataset and receive predictions based on various features.
 ## Features
 -Predicts concrete strength based on multiple features.
+
 -Includes pre-trained models for Random Forest, Linear Regression, and Decision Tree Regression.
+
 -Users can input their own datasets in CSV format for predictions.
 
 ## Files in the Repository
@@ -46,7 +48,9 @@ cd Concrete-Strength-Prediction
 
 ## How to Use
 1.Make sure the required packages are installed (pandas, scikit-learn, etc.).
+
 2.Run the main.py script in the src folder.
+
 3.Enter the path to your dataset when prompted. The predictions will be saved to predictions.csv.
 
 ## License
