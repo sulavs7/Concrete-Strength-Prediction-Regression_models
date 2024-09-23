@@ -1,6 +1,11 @@
-# Concrete Strength Prediction
+## Concrete Strength Prediction
 
 This project aims to predict the compressive strength of concrete using three different regression models: Random Forest, Linear Regression, and Decision Tree Regression. It allows users to input their dataset and receive predictions based on various features.
+## What I Learned 
+- I learned Regression Tress Algorithms give better prediction when there is not obvius linearity between features and   
+  target.
+- Although the dataset used here is from a structured source, I realized how important it is to handle real-world data 
+  properly, understand the significance of each feature, and interpret how the models react to those features.
 ## Features
 - Predicts concrete strength based on multiple features.
 
